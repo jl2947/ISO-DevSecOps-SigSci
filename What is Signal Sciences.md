@@ -15,7 +15,7 @@ This platform provides protection against:
 
 ## Signal Sciences consists of three main products.
 
-**Next-Generation Web Application Firewall (NGWAF)** 
+** *Next-Generation Web Application Firewall (NGWAF)* ** 
 
 NGWAF module embeds directly into the web server instance. Easy to install into web application servers such as NGINX, Apache, IIS, etc. Uses a safe, fail-open architecture to communicate with the Signal Sciences local agent, which creates a fast, reliable, and secure asynchronous connection to the Signal Sciences cloud decision engine to ensure your customer traffic is stable and scalable.
 
