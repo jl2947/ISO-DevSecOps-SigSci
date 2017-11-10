@@ -4,12 +4,12 @@ Signal Sciences is a web protection platform that Turner has procured to help gi
 
 This platform provides protection against: 
 + *Account Takeover*
-+ Business Logic Attacks
-+ Application Abuse
-+ Bots
-+ Application DDoS
-+ OWASP Top 10
-+ Attack Tooling 
++ *Business Logic Attacks*
++ *Application Abuse*
++ *Bots*
++ *Application DDoS*
++ *OWASP Top 10*
++ *Attack Tooling* 
 
 ## Signal Sciences consists of three main products.
 
