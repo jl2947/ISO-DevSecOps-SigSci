@@ -19,11 +19,11 @@ This platform provides protection against:
 
 NGWAF module embeds directly into the web server instance. Easy to install into web application servers such as NGINX, Apache, IIS, etc. Uses a safe, fail-open architecture to communicate with the Signal Sciences local agent, which creates a fast, reliable, and secure asynchronous connection to the Signal Sciences cloud decision engine to ensure your customer traffic is stable and scalable.
 
-**Runtime Application Self Protection (RASP)** 
+**_Runtime Application Self Protection (RASP)_** 
 
 RASP module embeds directly into the application source code. It doesn't require any SDK-based application rewrites and simply drops into your application code as a library and provides protection through security controls at the source code layer. Supports the most frequently used languages such as .NET, Javaa, and NodeJS. Does not require modification or hack of your infrastructure, underlying system, virtual machines, debug compilations of code, or changes to the Java Virtual Machine or .NET CLR. Simply update your code with a single library to have security embedded.
 
-**Reverse Proxy**
+**_Reverse Proxy_**
 
 Reverse Proxy module can be deployed in front of the web server to avoid modifying legacy-based server or source code components. It provides infinite scalability and security without having to touch the source code or web server configuration itself. This provides security at the load balancer or proxy layer. Makes the most sense when architecture necessitates this solution or third-party applications are being used, and will also protect any web servers downstream.
 
