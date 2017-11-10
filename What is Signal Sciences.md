@@ -3,7 +3,7 @@
 Signal Sciences is a web protection platform that Turner has procured to help give us visibility and protection against common web application attacks. This flexible platform allows us to deploy it into any application stack while integrating your current workflows and operations processes with DevOps methodology. It supports any language, cloud, and physical infrastructure. The platform is able to intelligently and automatically adapt its cloud analysis engine in real time and simultaneously report the results to a dashboard without disruption to services. 
 
 This platform provides protection against: 
-+ *Account Takeover
++ *Account Takeover*
 + Business Logic Attacks
 + Application Abuse
 + Bots
